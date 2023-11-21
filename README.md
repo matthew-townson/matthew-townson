@@ -1,16 +1,14 @@
-### Hi there 👋
+# hello I'm Matthew.
+I'm a 1^st^ year Computer Science Student @lancaster-university.  
+I love practical and user-oriented design, linux, source engine games, and _**[RATS](#)**_  
+Making cool things to show and help people drives me.  
+  
+**If you want to find more, go to my website: [mtownson.com](https://mtownson.com)[^1]**  
+  
+## find me:
+- My Website: [mtownson.com](https://mtownson.com)
+- Email: [matthew@mtownson.com](mailto:matthew@mtownson.com)
+- LinkedIn: [@mtownson](https://www.linkedin.com/in/mtownson)
+- netter!: [coming soon...](#)
 
-<!--
-**matthew-townson/matthew-townson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[^1]: I haven't finished my website yet, maybe I will at some point in the future
