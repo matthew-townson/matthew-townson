@@ -1,5 +1,5 @@
 # hello, I'm Matthew.
-I'm a 1^st^ year Computer Science Student @lancaster-university.  
+I'm a 1^st^ year Computer Science Student  [@lancaster-university](https://github.com/lancaster-university/).  
 I love practical and user-oriented design, linux, source engine games, and _**[RATS](#)**_  
 Making cool things to show and help people drives me.  
   
