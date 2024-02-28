@@ -7,6 +7,7 @@ Making cool things to show and help people drives me.
   
 ## find me:
 - My Website: [mtownson.com](https://mtownson.com)
+- Blog: [blog.mtownson.com](https://blog.mtownson.com)
 - Email: [matthew@mtownson.com](mailto:matthew@mtownson.com)
 - LinkedIn: [@mtownson](https://www.linkedin.com/in/mtownson)
 - netter!: [coming soon...](#)
