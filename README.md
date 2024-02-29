@@ -4,6 +4,7 @@ I love practical and user-oriented design, linux, source engine games, and _**[R
 Making cool things to show and help people drives me.  
   
 **If you want to find more, go to my website: [mtownson.com](https://mtownson.com)[^1]**  
+*or my blog: [blog.mtownson.com](https://blog.mtownson.com)*  
   
 ## find me:
 - My Website: [mtownson.com](https://mtownson.com)
