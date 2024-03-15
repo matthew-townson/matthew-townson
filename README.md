@@ -7,10 +7,11 @@ Making cool things to show and help people drives me.
 *or my blog: [blog.mtownson.com](https://blog.mtownson.com)*  
   
 ## find me:
-- My Website: [mtownson.com](https://mtownson.com)
-- Blog: [blog.mtownson.com](https://blog.mtownson.com)
-- Email: [matthew@mtownson.com](mailto:matthew@mtownson.com)
-- LinkedIn: [@mtownson](https://www.linkedin.com/in/mtownson)
-- netter!: [coming soon...](#)
+- **My Website:** [mtownson.com](https://mtownson.com)
+- **Blog:** [blog.mtownson.com](https://blog.mtownson.com)
+- **Email:** [matthew@mtownson.com](mailto:matthew@mtownson.com)
+- **LinkedIn:** [@mtownson](https://www.linkedin.com/in/mtownson)
+- **netter!:** [coming soon...](#)
+- **GPG pubkey:** [mjwtownson@gmail.com](https://raw.githubusercontent.com/matthew-townson/matthew-townson/main/pubkey.asc)
 
 [^1]: I haven't finished my website yet, maybe I will at some point in the future
