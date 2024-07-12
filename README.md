@@ -1,5 +1,5 @@
 # hello, I'm Matthew.
-I'm a 1<sup>st</sup> year Computer Science Student  [@lancaster-university](https://github.com/lancaster-university/).  
+I'm a 2<sup>nd</sup> year Computer Science Student  [@lancaster-university](https://github.com/lancaster-university/).  
 I love practical and user-oriented design, linux, source engine games, and _**[RATS](https://mtownson.com/assets/images/extras/RAT.JPG)**_  
 Making cool things to show and help people drives me.  
   
