@@ -14,6 +14,6 @@ Making cool things to show and help people drives me.
 - **netter!:** [coming soon...](#)
 - **GPG pubkey:** [mjwtownson@gmail.com](https://raw.githubusercontent.com/matthew-townson/matthew-townson/main/pubkey.asc)
 
-[![lang stats](https://github-stats-extended.vercel.app/api/top-langs?username=matthew-townson&layout=compact&langs_count=8&theme=cobalt)](https://github-stats-extended.vercel.app/api/top-langs?username=matthew-townson&layout=compact&langs_count=8&theme=cobalt)
+[![lang stats](https://github-stats-extended.vercel.app/api/top-langs?username=matthew-townson&layout=compact&langs_count=8&theme=cobalt)]()
 
 [^1]: I haven't finished my website yet, maybe I will at some point in the future
